@@ -40,7 +40,7 @@ The Abyss is intentionally kept simple and focused on individual expression. As 
 
 ## Support
 
-For any inquiries, troubleshooting, or feedback, please contact us at [support@theabyss.com](mailto:support@theabyss.com).
+For any inquiries, troubleshooting, or feedback, please contact us at - [support@theabyss.com](mailto:support@theabyss.com).
 
 ## Credits & History
 
